@@ -23,7 +23,7 @@ The study is based on the dataset "Mass Killing in America - 2006 to Present," e
    ![Gun Violence Offenders by State](https://i.imgur.com/8BQLCnm.png)
 
 ## Interactive Visualizations
-View our interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/venkata.sai.gagan.deep.alusuri/viz/Final_Project_VSGDA/Dashboard2).
+View the interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/venkata.sai.gagan.deep.alusuri/viz/Final_Project_VSGDA/Dashboard2).
 
 ## Conclusion
 The analysis reveals notable variations in gun violence rates and patterns, emphasizing the need for nuanced policy approaches and preventive strategies.
