@@ -1,0 +1,32 @@
+https://data.world/associatedpress/mass-killings-public
+
+https://worldpopulationreview.com/states
+
+https://ghdx.healthdata.org/record/ihme-data/united-states-health-spending-by-state-payer-type-service-2003-2019
+
+https://wisqars.cdc.gov/reports/?o=MORT&y1=2006&y2=2021&t=0&d=&i=3&m=20890&g=00&me=0&s=0&r=0&ry=0&e=0&yp=65&a=ALL&g1=0&g2=199&a1=0&a2=199&r1=STATE&r2=YEAR&r3=MECH&r4=NONE
+
+https://www.kaggle.com/datasets/tunguz/us-elections-dataset
+
+https://worldpopulationreview.com/state-rankings/guns-per-capita
+
+Project Idea:
+To create visualizations of the United States displaying gun violence incidents by state and year, highlighting high and low-risk areas.
+Potential Business Questions:
+How has the overall gun violence rate changed over the past decade?
+How has the overall gun violence rate changed across different governments in power?
+What are the states with the highest and lowest gun violence rates?
+Can we correlate changes in gun violence rates with different government administrations or gun control policies?
+Are there demographic factors that correlate with higher rates of gun violence incidents?
+Are there specific times or events when gun violence incidents tend to spike?
+What types of firearms are most commonly used in gun violence incidents?
+Can we create profiles of victims and perpetrators of gun violence incidents?
+What is the economic impact of gun violence, including healthcare costs and lost productivity?
+How do public perceptions and attitudes towards gun control policies correlate with gun violence rates?
+Data Needed:
+To address these questions, you'll need historical data on gun violence incidents in the United States, including information on location, date, type of weapon used, demographics of victims and perpetrators, government policies, economic data, public opinion surveys, and potentially other relevant factors such as weather data or major events.
+
+
+
+Visual 2-
+
