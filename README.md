@@ -10,7 +10,7 @@ The study is based on the dataset "Mass Killing in America - 2006 to Present," e
 
 ### Research Questions and Visualizations
 1. **Which states have the highest percentage of shooting deaths (2006-2023)?**
-   ![States with the highest percentage of Shooting Deaths from 2006 to 2023](https://github.com/GaganDeepAlusuri/Data-Visualization-Project-On-Gun-Violence-USA/blob/main/States%20with%20the%20highest%20percentage%20of%20Shooting%20Deaths%20from%202006%20to%202023%20.png?raw=true)
+   ![States with the highest percentage of Shooting Deaths from 2006 to 2023](https://i.imgur.com/burOwJv.png)
 2. **Fluctuations in the gun violence rate over the last decade**
    ![Gun Violence Rate Fluctuations](image-link-2.png)
 3. **Differences in gun death rates between Republican and Democratic states (2008-2020)**
