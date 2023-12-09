@@ -12,18 +12,18 @@ The study is based on the dataset "Mass Killing in America - 2006 to Present," e
 1. **Which states have the highest percentage of shooting deaths (2006-2023)?**
    ![States with the highest percentage of Shooting Deaths from 2006 to 2023](https://i.imgur.com/burOwJv.png)
 2. **Fluctuations in the gun violence rate over the last decade**
-   ![Gun Violence Rate Fluctuations](image-link-2.png)
+   ![Gun Violence Rate Fluctuations](https://i.imgur.com/XQXOsbm.png)
 3. **Differences in gun death rates between Republican and Democratic states (2008-2020)**
-   ![Gun Death Rates by Political Governance](image-link-3.png)
+   ![Gun Death Rates by Political Governance](https://i.imgur.com/Rknz4OA.png)
 4. **Common situational factors contributing to gun violence**
-   ![Situational Factors in Gun Violence](image-link-4.png)
+   ![Situational Factors in Gun Violence](https://i.imgur.com/TNabnae.png)
 5. **Types of firearms most frequently used**
-   ![Firearms Used in Gun Violence](image-link-5.png)
+   ![Firearms Used in Gun Violence](https://i.imgur.com/SAYcK1R.png)
 6. **Variation in gun violence offenders per million across states (2008-2023)**
-   ![Gun Violence Offenders by State](image-link-6.png)
+   ![Gun Violence Offenders by State](https://i.imgur.com/8BQLCnm.png)
 
 ## Interactive Visualizations
-View our interactive visualizations on [Tableau Public](Tableau-Public-Link).
+View our interactive visualizations on [Tableau Public](https://public.tableau.com/app/profile/venkata.sai.gagan.deep.alusuri/viz/Final_Project_VSGDA/Dashboard2).
 
 ## Conclusion
 The analysis reveals notable variations in gun violence rates and patterns, emphasizing the need for nuanced policy approaches and preventive strategies.
